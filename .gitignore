@@ -1,1 +1,6 @@
 secret.txt
+
+/task/task1.txt
+
+*.html
+!b.html
