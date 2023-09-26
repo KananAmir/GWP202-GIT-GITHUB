@@ -1,2 +1,5 @@
 this text.txt file
-new line added
+
+
+
+salamlar
