@@ -3,3 +3,6 @@ this text.txt file
 
 
 salamlar
+
+
+new line added
